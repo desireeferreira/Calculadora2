@@ -1,8 +1,24 @@
-# React + Vite
+# Calculadora2 🧮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma calculadora simples desenvolvida em React, que permite realizar operações básicas como soma, subtração, multiplicação e divisão. O projeto também conta com um design moderno e responsivo.
 
-Currently, two official plugins are available:
+## Tecnologias Usadas 🛠️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- [Vite](https://vitejs.dev/) ![Vite](https://img.shields.io/badge/Vite-4FC08D?style=flat-square&logo=vite&logoColor=white)
+- [Sass](https://sass-lang.com/) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Funcionalidades ✨
+
+- Realiza operações de adição, subtração, multiplicação e divisão.
+- Interface amigável e responsiva.
+- Opção de limpar os valores digitados.
+
+## Como Executar o Projeto 💻
+
+Para executar o projeto localmente, siga as instruções abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/desireeferreira/Calculadora2.git
